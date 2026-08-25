@@ -1,5 +1,5 @@
 # Developer Profile
 
-- **Name:** Dylan Goertz
+- **Developer:** Alex
 - **Hobby:** Playing video games
 - **Preferred Development Tool:** VS Code
