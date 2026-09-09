@@ -1,7 +1,7 @@
 # Project Idea
 
 ## Project Name
-TBD
+Study Tracker
 
 ## Problem to Solve
 TBD
