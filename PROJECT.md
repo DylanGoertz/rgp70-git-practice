@@ -7,4 +7,4 @@ Study Tracker
 We should solve something!
 
 ## Target User
-TBD
+Student
