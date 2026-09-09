@@ -4,7 +4,7 @@
 Study Tracker
 
 ## Problem to Solve
-TBD
+We should solve something!
 
 ## Target User
 TBD
